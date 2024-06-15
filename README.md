@@ -5,4 +5,5 @@ Materi yang telah dipelajari:<br>
 2. FataFrame dan Series
 3. Index (setting, penggunaan, serta mereset index)
 4. Filtering<br>
+
 Diakhir pembelajaran akan ada beberapa file latihan mengenai penggunaan pandas untuk menganalisis data.
